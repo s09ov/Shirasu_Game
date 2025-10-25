@@ -3,7 +3,7 @@
 
 ## 1. 宝探し
 概要：[1_treasurehunt_overview.md](1_treasurehunt_overview.md)  
-コマンド：考え中  
+コマンド：[1_treasurehunt_command.md](1_treasurehunt_command.md)  
 
 ## 2. ブロックハイド
 概要：[2_blockhide_overview.md](2_blockhide_overview.md)   
